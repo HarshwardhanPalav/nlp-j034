@@ -1,1 +1,1 @@
-# nlp-j034
+Because of some issues regarding creation of repository , the assignments for Deep Learning subject are stored in the master of NLP repository . Sorry for inconvience caused . Thanks for understanding . 
